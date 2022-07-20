@@ -1,0 +1,6 @@
+git clone https://repolink-example.git #to clone the reposotory on your Local
+git reset head file-name.ext #unstage file from staging to working 
+git restore --staged newfile.txt #unstage file from staging to working 
+git push origin master # push from local repo to the remote repo
+git pull origin 
+
